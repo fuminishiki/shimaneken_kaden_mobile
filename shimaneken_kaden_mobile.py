@@ -18,22 +18,13 @@ m
 folium.Marker(location=[35.4347434,133.1230941],popup='家電住まいる館YAMADA松江店　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
-folium.Marker(location=[35.1988172,132.4915515],popup='ヤマダデンキ テックランド大田店　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
 folium.Marker(location=[34.9021568,132.0709828],popup='ヤマダデンキ テックランド浜田港町店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
 folium.Marker(location=[34.688883,131.8241433],popup='ヤマダデンキ テックランド益田店　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
-folium.Marker(location=[35.4740129,133.0688681],popup='ヤマダデンキ テックランド松江学園南店　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
 folium.Marker(location=[35.3779321,132.7520227],popup='ヤマダデンキ テックランドNew出雲店　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
-m
-
-folium.Marker(location=[34.988585,132.1877644],popup='ヤマダデンキ ヤマダアウトレット江津店　　　　　　　　　　　　　　　　　　',icon=folium.Icon(color="red")).add_to(m)
 m
 
 folium.Marker(location=[35.3691069,132.7415492],popup='ケーズデンキ 出雲店　　　　　　　　　',icon=folium.Icon(color="orange")).add_to(m)
